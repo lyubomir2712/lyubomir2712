@@ -88,7 +88,9 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 ---
 
 <details><summary><h2>📊 Stats</h2></summary>
+  
 [![Lyubomir's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyubomir2712&show_icons=true&theme=synthwave)](https://github.com/lyubomir2712)
+
 </details>
 
 
