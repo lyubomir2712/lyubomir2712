@@ -16,10 +16,9 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-    <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-     <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+    <img src="https://github.com/user-attachments/assets/d8f9fc5f-a662-4d94-924f-c04eb2a50511" alt="Dev Icon" width="50" height="50"> &nbsp;
+    <img src="https://github.com/user-attachments/assets/3498d85f-ff3a-44e5-9438-ac5a45733108" alt="Discord Icon" width="50" height="50"> &nbsp;
+    <img src="https://github.com/user-attachments/assets/1c2a9eb9-e605-4ccc-ba03-d8237c048ac3" alt="LinkedIn Icon" width="50" height="50">
   </p>
   
  ---
