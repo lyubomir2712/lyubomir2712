@@ -18,8 +18,8 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   
  ---
 
-## Tech Stack
-### 💡Languages: 
+<details><summary><h2>🦾 Tech Stack</h2></summary>
+  ### 💡Languages: 
 <p>
   <img alt="C#" width="30px" style="margin-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
   <img alt="JavaScript" width="30px" style="padding-right:10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -62,6 +62,8 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img alt="GitHub" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Bitbucket" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" /> 
 </p>
+</details>
+
 
 ---
 
