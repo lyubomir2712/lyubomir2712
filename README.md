@@ -18,7 +18,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   
  ---
 
-# Tech Stack
+## Tech Stack
 ### 💡Languages: 
 <p>
   <img alt="C#" width="30px" style="margin-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
@@ -65,8 +65,8 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 
 ---
 
-# ✅ Projects:
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+<details>
+  <summary><h2>✅ Projects:</h2></summary>
   <p align="left">
     <a href="https://github.com/lyubomir2712/Hotel_Booking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=Hotel_Booking&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Hotel_Booking"></a>
 
@@ -82,16 +82,20 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 
 <a href="https://github.com/lyubomir2712/VTUstudio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=VTUstudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="VTUstudio"></a>
   </p>
+</details>
+  
 
 ---
 
-# 📊 Stats
-![Lyubomir's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyubomir2712&show_icons=true&theme=synthwave)
+<details><summary><h2>📊 Stats</h2></summary>
+[![Lyubomir's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyubomir2712&show_icons=true&theme=synthwave)](https://github.com/lyubomir2712)
+</details>
+
 
 ---
 
 <details>
-  <summary>👨🏻‍💻 Coding Journey</summary>
+  <summary><h2>👨🏻‍💻 Coding Journey</h2></summary>
 My Coding Journey
 
 From a young age, I was captivated by computers and aspired to become a programmer, inspired by my three cousins in the field. My journey began in 8th grade when I started learning basic C# through the book Основи на програмирането със C# by Svetlin Nakov. This initial exploration ignited my passion for coding. By 10th grade, I delved deeper into programming with Python on Codeacademy, where I gained a solid foundation in fundamental and advanced concepts.
@@ -108,7 +112,7 @@ Now in my third year, I have secured my first professional role as a Full Stack 
 ---
 
 <details>
-  <summary>ℹ️ Additional info</summary>
+  <summary><h2>ℹ️ Additional info</h2></summary>
   I have a collections of books for programming from  Robert C. Martin ( Uncle Bob ) 📚 <br/>
   <ul>
     <li>Clean Code</li>
