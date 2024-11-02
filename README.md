@@ -1,4 +1,9 @@
-<h1 align="center">Lyubomir Georgiev</h1>
+<h1 style="
+  background-image: linear-gradient(109.2deg, rgb(254, 3, 104) 9.3%, rgb(103, 3, 255) 89.5%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;" align="center">
+  Lyubomir Georgiev
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
