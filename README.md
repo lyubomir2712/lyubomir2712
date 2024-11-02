@@ -66,7 +66,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 ---
 
 <details>
-  <summary><h2>✅ Projects:</h2></summary>
+  <summary><h2>✅ Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/lyubomir2712/Hotel_Booking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=Hotel_Booking&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Hotel_Booking"></a>
 
