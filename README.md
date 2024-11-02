@@ -1,4 +1,4 @@
-# Lyubomir Georgiev
+<h1 align="center">Lyubomir Georgiev</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -19,7 +19,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
  ---
 
 <details><summary><h2>🦾 Tech Stack</h2></summary>
-  ### 💡Languages: 
+  <h3>💡Languages: </h3>
 <p>
   <img alt="C#" width="30px" style="margin-right: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
   <img alt="JavaScript" width="30px" style="padding-right:10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -29,14 +29,14 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img alt="SqlServer" width="30px" style="padding-right:10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 </p>
 
-### 🧰 Framewoks:
+<h3>🧰 Framewoks:</h3> 
 
 <p align="left">
   <img alt="ASP.NET" width="30px" style="padding-right: 100;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img  alt="React.Js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </p>
 
-### 📚 Libraries:
+<h3>📚 Libraries:</h3> 
 <p align="left">  
   <img alt="Tailwind" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="MUI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
@@ -44,7 +44,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img alt="ReactBootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" />    
 </p>
 
-### 🛠️ Tools:
+<h3>🛠️ Tools:</h3> 
 
 <p align="left">
   <img alt="Jira" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
@@ -56,7 +56,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img alt="Figma" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />        
 </p>
 
-### 🎁 Version Control Systems and Storage 
+<h3>🎁 Version Control Systems and Storage: </h3> 
 <p align="left">
   <img alt="Git" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />       
   <img alt="GitHub" width="30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
@@ -99,8 +99,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 ---
 
 <details>
-  <summary><h2>👨🏻‍💻 Coding Journey</h2></summary>
-My Coding Journey
+  <summary><h2>👨🏻‍💻 Lyubomir's Coding Journey</h2></summary>
 
 From a young age, I was captivated by computers and aspired to become a programmer, inspired by my three cousins in the field. My journey began in 8th grade when I started learning basic C# through the book Основи на програмирането със C# by Svetlin Nakov. This initial exploration ignited my passion for coding. By 10th grade, I delved deeper into programming with Python on Codeacademy, where I gained a solid foundation in fundamental and advanced concepts.
 
