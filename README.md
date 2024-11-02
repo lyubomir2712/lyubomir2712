@@ -73,19 +73,21 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 <details>
   <summary><h2>✅ Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/lyubomir2712/Hotel_Booking"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=Hotel_Booking&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Hotel_Booking"></a>
+    <a href="https://github.com/lyubomir2712/Hotel_Booking">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=Hotel_Booking&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="Hotel_Booking">
+</a>
 
-<a href="https://github.com/MrArthur0507/StockAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrArthur0507&repo=StockAPI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="StockAPI"></a>
+<a href="https://github.com/MrArthur0507/StockAPI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MrArthur0507&repo=StockAPI&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="StockAPI"></a>
 
-<a href="https://github.com/lyubomir2712/English-Literature-Board-Game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=English-Literature-Board-Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="English-Literature-Board-Game"></a>
+<a href="https://github.com/lyubomir2712/English-Literature-Board-Game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=English-Literature-Board-Game&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="English-Literature-Board-Game"></a>
 
-<a href="https://github.com/lyubomir2712/ATM_Design_patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=ATM_Design_patterns&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="ATM_Design_patterns"></a>
+<a href="https://github.com/lyubomir2712/ATM_Design_patterns"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=ATM_Design_patterns&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="ATM_Design_patterns"></a>
 
-<a href="https://github.com/lyubomir2712/ApiCsvReader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=ApiCsvReader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="ApiCsvReader"></a>
+<a href="https://github.com/lyubomir2712/ApiCsvReader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=ApiCsvReader&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="ApiCsvReader"></a>
 
-<a href="https://github.com/lyubomir2712/MyWebApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=MyWebApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="MyWebApp"></a>
+<a href="https://github.com/lyubomir2712/MyWebApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=MyWebApp&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="MyWebApp"></a>
 
-<a href="https://github.com/lyubomir2712/VTUstudio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=VTUstudio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="VTUstudio"></a>
+<a href="https://github.com/lyubomir2712/VTUstudio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=VTUstudio&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="VTUstudio"></a>
   </p>
 </details>
   
