@@ -90,8 +90,34 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 
 ---
 
-# Roadmap
+<details>
+  <summary>👨🏻‍💻 Coding Journey</summary>
+My Coding Journey
+
+From a young age, I was captivated by computers and aspired to become a programmer, inspired by my three cousins in the field. My journey began in 8th grade when I started learning basic C# through the book Основи на програмирането със C# by Svetlin Nakov. This initial exploration ignited my passion for coding. By 10th grade, I delved deeper into programming with Python on Codeacademy, where I gained a solid foundation in fundamental and advanced concepts.
+
+In 11th grade, I expanded my skill set with MySQL, learning from Colt Steele’s course on Udemy. Toward the end of the year, I started exploring backend development with Django and frontend basics using HTML, CSS, vanilla JavaScript, and jQuery.
+
+After graduating high school, I enrolled at the University of Veliko Tarnovo “St. St. Cyril and Methodius” to study Software Engineering. My first year involved serious practice with .NET and SQL Server, while in my second year, I built my first API using ASP.NET. I also gained proficiency in version control systems like Git and learned crucial concepts, including Object-Oriented Programming, SOLID principles, data structures, algorithms, operating systems, multithreading, memory hierarchy, asynchronous programming, and design patterns.
+
+Outside of formal studies, I explored interests in Web3, DeFi, and blockchain, writing my first smart contract in Solidity on Remix to better understand the foundations of cryptocurrency. During the summer, I focused on mastering React fundamentals.
+
+Now in my third year, I have secured my first professional role as a Full Stack React/.NET Developer at the University of Veliko Tarnovo. I am part of an ambitious team, working on educational projects for various institutions and contributing to impactful solutions in the field of education.
+</details> 
 
 ---
 
-# Additional info
+<details>
+  <summary>ℹ️ Additional info</summary>
+  I have a collections of books for programming from  Robert C. Martin ( Uncle Bob ) 📚 <br/>
+  <ul>
+    <li>Clean Code</li>
+    <li>Clean Archicture</li>
+    <li>The Clean Coder</li>
+    <li>Working effectively with legacy code</li>
+    <li>Clean Agile</li>
+    <li>Clean Craftsmanship</li>
+    </ul> 
+  
+  In my free time i like to workout at the local gym 💪, i have interests in martial arts 🥋 and i like to climb mountains 🏔️!
+</details> 
