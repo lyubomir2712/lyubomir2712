@@ -1,8 +1,5 @@
-<h1 style="
-  background-image: linear-gradient(109.2deg, rgb(254, 3, 104) 9.3%, rgb(103, 3, 255) 89.5%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;" align="center">
-Lyubomir Georgiev
+<h1 align="center">
+<img src="https://github.com/user-attachments/assets/dffcd7e3-8cef-445b-a474-83e222945b64" alt="Image">
 </h1>
 
 <p align="center">
