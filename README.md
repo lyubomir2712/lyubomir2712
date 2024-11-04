@@ -50,6 +50,9 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img alt="ReactBootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" /> &nbsp;
   <img src="https://github.com/user-attachments/assets/b589c379-c002-4912-bd2c-1b0442458089" alt="Image" width="32" height="32"> &nbsp;
   <img src="https://github.com/user-attachments/assets/63aa2ba4-cde5-4914-9dff-e1f36fbce961" alt="Image" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/6783aa8f-c5d0-4e7c-8ac9-8966fea51c29" alt="Image" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/f1b4d90d-d0b8-4f35-a1be-4c4b0e08fdc6" alt="Image" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/075dc69a-cf0e-476f-b382-c37aef41e60b" alt="Image" width="32" height="32">&nbsp;
 </p>
 
 <h3>🛠️ Tools:</h3> 
