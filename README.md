@@ -34,9 +34,9 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 <p align="left">
   <img alt="ASP.NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> &nbsp;
   <img  alt="React.Js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/85cb7b59-281d-454d-a392-ad7c5ea03568" height="32" width=32" alt="Image"> &nbsp;
-  <img src="https://github.com/user-attachments/assets/a5ba288a-2e2a-4e58-bd39-0e57de4fe4da" alt="Image" height="32" width="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/1efeb72f-8037-4ca1-b402-5807f1bad449" alt="Image" height="32" width="32">
+  <img src="https://github.com/user-attachments/assets/85cb7b59-281d-454d-a392-ad7c5ea03568" height="32" width=32" alt="EFCore"> &nbsp;
+  <img src="https://github.com/user-attachments/assets/a5ba288a-2e2a-4e58-bd39-0e57de4fe4da" alt="XUnit" height="32" width="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/1efeb72f-8037-4ca1-b402-5807f1bad449" alt="NUnit" height="32" width="32">
   </p>
 
 <h3>📚 Libraries:</h3> 
@@ -45,14 +45,14 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img alt="MUI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" /> &nbsp;
   <img alt="FramerMotion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" /> &nbsp;
   <img alt="ReactBootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/b589c379-c002-4912-bd2c-1b0442458089" alt="Image" width="32" height="32"> &nbsp;
-  <img src="https://github.com/user-attachments/assets/63aa2ba4-cde5-4914-9dff-e1f36fbce961" alt="Image" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/6783aa8f-c5d0-4e7c-8ac9-8966fea51c29" alt="Image" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/f1b4d90d-d0b8-4f35-a1be-4c4b0e08fdc6" alt="Image" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/075dc69a-cf0e-476f-b382-c37aef41e60b" alt="Image" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/22bc7d76-850d-49ea-8c63-188d1db9222e" alt="Image" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/2c972797-5cac-4d5f-8a85-c20fa1342e37" alt="Image" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/f14bbb74-6051-4ab3-8922-d69bdbcfca82" alt="Image" width="55" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/b589c379-c002-4912-bd2c-1b0442458089" alt="AutoMapper" width="32" height="32"> &nbsp;
+  <img src="https://github.com/user-attachments/assets/63aa2ba4-cde5-4914-9dff-e1f36fbce961" alt="MailKit" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/6783aa8f-c5d0-4e7c-8ac9-8966fea51c29" alt="Quarz" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/f1b4d90d-d0b8-4f35-a1be-4c4b0e08fdc6" alt="SignalR" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/075dc69a-cf0e-476f-b382-c37aef41e60b" alt="MR" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/22bc7d76-850d-49ea-8c63-188d1db9222e" alt="Dapper" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/2c972797-5cac-4d5f-8a85-c20fa1342e37" alt="Newtonsoft" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/f14bbb74-6051-4ab3-8922-d69bdbcfca82" alt="JWTauth" width="55" height="32">&nbsp;
 </p>
 
 <h3>🛠️ Tools:</h3> 
