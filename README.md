@@ -37,7 +37,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 <p align="left">
   <img alt="ASP.NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> &nbsp;
   <img  alt="React.Js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
-</p>
+  <img src="https://github.com/user-attachments/assets/85cb7b59-281d-454d-a392-ad7c5ea03568" height="32" width=32" alt="Image"></p>
 
 <h3>📚 Libraries:</h3> 
 <p align="left">  
@@ -92,24 +92,13 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
     <td><a href="https://github.com/lyubomir2712/VTUstudio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lyubomir2712&repo=VTUstudio&theme=react&bg_color=1F222E&title_color=A020F0&hide_border=true&icon_color=A020F0&show_icons=false&show_description=false" alt="VTUstudio"></a></td>
   </tr>
 </table>
-    
-
-
-
-
-
-
-
-
-
-
   </p>
 </details>
   
 
 ---
 
-<details><summary><h2>📊 Stats</h2></summary>
+<details><summary><h2>📊 Statistics</h2></summary>
   
 [![Lyubomir's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyubomir2712&show_icons=true&theme=synthwave)](https://github.com/lyubomir2712)
 
