@@ -54,6 +54,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img src="https://github.com/user-attachments/assets/f1b4d90d-d0b8-4f35-a1be-4c4b0e08fdc6" alt="Image" width="32" height="32">&nbsp;
   <img src="https://github.com/user-attachments/assets/075dc69a-cf0e-476f-b382-c37aef41e60b" alt="Image" width="32" height="32">&nbsp;
   <img src="https://github.com/user-attachments/assets/22bc7d76-850d-49ea-8c63-188d1db9222e" alt="Image" width="32" height="32">&nbsp;
+  <img src="https://github.com/user-attachments/assets/2c972797-5cac-4d5f-8a85-c20fa1342e37" alt="Image" width="32" height="32">&nbsp;
 </p>
 
 <h3>🛠️ Tools:</h3> 
