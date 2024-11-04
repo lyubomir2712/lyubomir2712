@@ -37,7 +37,8 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
 <p align="left">
   <img alt="ASP.NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> &nbsp;
   <img  alt="React.Js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;
-  <img src="https://github.com/user-attachments/assets/85cb7b59-281d-454d-a392-ad7c5ea03568" height="32" width=32" alt="Image"></p>
+  <img src="https://github.com/user-attachments/assets/85cb7b59-281d-454d-a392-ad7c5ea03568" height="32" width=32" alt="Image"> &nbsp;
+  <img src="https://github.com/user-attachments/assets/a5ba288a-2e2a-4e58-bd39-0e57de4fe4da" alt="Image" height="32" width="32"></p>
 
 <h3>📚 Libraries:</h3> 
 <p align="left">  
