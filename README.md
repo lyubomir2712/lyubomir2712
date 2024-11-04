@@ -132,7 +132,7 @@ Now in my third year, I have secured my first professional role as a Full Stack 
 ---
 
 <details>
-  <summary><h2>ℹ️ Additional info</h2></summary>
+  <summary><h2>ℹ️ Additional Info</h2></summary>
   I have a collections of books for programming from  Robert C. Martin ( Uncle Bob ) 📚 <br/>
   <ul>
     <li>Clean Code</li>
