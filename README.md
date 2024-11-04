@@ -13,7 +13,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <p align="center">
     <a href=""><img src="https://github.com/user-attachments/assets/73cd0f60-9f47-4bcf-97d7-c922cf7b2f4f" alt="Dev logo" width="50" height="50"></a> &nbsp;
     <a href="https://x.com/0xGeorgiev"><img src="https://github.com/user-attachments/assets/2c27b738-ad0b-4e54-9c81-b9f4e01eab04" width="50" height="50" alt="Image"></a> &nbsp;
-    <a href="https://www.linkedin.com/in/lyubomir-georgiev-ab9116248/"><img src="https://github.com/user-attachments/assets/1c2a9eb9-e605-4ccc-ba03-d8237c048ac3" alt="LinkedIn Icon" width="50" height="50"></a>
+    <a href="https://www.linkedin.com/in/lyubomir-georgiev-ab9116248/"><img src="https://github.com/user-attachments/assets/0433900c-206c-425f-9edb-f1a64e8f8d9b" alt="Image" width="50" height="50"></a>
   </p>
   
  ---
