@@ -48,7 +48,7 @@ I am a 21-year-old junior fullstack engineer with expertise in React and .NET, c
   <img src="https://github.com/user-attachments/assets/b589c379-c002-4912-bd2c-1b0442458089" alt="AutoMapper" width="32" height="32"> &nbsp;
   <img src="https://github.com/user-attachments/assets/63aa2ba4-cde5-4914-9dff-e1f36fbce961" alt="MailKit" width="32" height="32">&nbsp;
   <img src="https://github.com/user-attachments/assets/6783aa8f-c5d0-4e7c-8ac9-8966fea51c29" alt="Quarz" width="32" height="32">&nbsp;
-  <img src="https://github.com/user-attachments/assets/f1b4d90d-d0b8-4f35-a1be-4c4b0e08fdc6" alt="SignalR" width="32" height="32">&nbsp;
+<img src="https://github.com/user-attachments/assets/c0672c53-68e7-4bb0-bb9f-41fadd727a4d" alt="SignalR" height="32" width="32">&nbsp;
   <img src="https://github.com/user-attachments/assets/075dc69a-cf0e-476f-b382-c37aef41e60b" alt="MR" width="32" height="32">&nbsp;
   <img src="https://github.com/user-attachments/assets/22bc7d76-850d-49ea-8c63-188d1db9222e" alt="Dapper" width="32" height="32">&nbsp;
   <img src="https://github.com/user-attachments/assets/2c972797-5cac-4d5f-8a85-c20fa1342e37" alt="Newtonsoft" width="32" height="32">&nbsp;
