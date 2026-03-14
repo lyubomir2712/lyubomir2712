@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I am a 21-year-old junior fullstack engineer with expertise in React and .NET, currently in my third year of a Software Engineering degree at the University of Veliko Tarnovo. With two years of experience as a system administrator, I have transitioned over the past few months into software engineering, where I work as a junior fullstack engineer. I am highly proficient in version control systems, Agile methodologies, and CI/CD pipelines. My experience extends to real-world projects, where I’ve developed a strong understanding of software craftsmanship. Additionally, I possess solid knowledge in object-oriented programming (OOP), design patterns, as well as data structures and algorithms. I am always eager to embrace new challenges and opportunities that allow me to grow and contribute to innovative projects.
+I am a 22-year-old junior fullstack engineer with expertise in React and .NET, currently in my fourth year of a Software Engineering degree at the University of Veliko Tarnovo. With two years of experience as a system administrator, I have transitioned over the past few months into software engineering, where I work as a junior fullstack engineer. I am highly proficient in version control systems, Agile methodologies, and CI/CD pipelines. My experience extends to real-world projects, where I’ve developed a strong understanding of software craftsmanship. Additionally, I possess solid knowledge in object-oriented programming (OOP), design patterns, as well as data structures and algorithms. I am always eager to embrace new challenges and opportunities that allow me to grow and contribute to innovative projects.
   </p>
 
   <p align="center">
